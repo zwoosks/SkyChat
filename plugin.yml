@@ -1,0 +1,8 @@
+name: SkyChat
+main: me.zwoosks.Skychat
+version: 1.0
+commands:
+   skychat:
+      aliases: [sc, skyc, schat]
+      description: Activa o desactiva la opcion automatica del chat de islas.
+      usage: /<command>
